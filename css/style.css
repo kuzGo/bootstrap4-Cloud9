@@ -22,7 +22,16 @@ body{
  }
  .features-container{
 
- }
+}
+/* Block dividers */
+.block-divider{
+    width: 75px;
+    height: 5px;
+    border: 0;}
+    
+ .block-divider--orange{
+    background-color: #f05f40;
+}
  .favorites-container{
      background-color: grey;
      color: honeydew;
